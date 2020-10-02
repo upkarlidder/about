@@ -5,3 +5,4 @@ Upkar Lidder is senior software engineer with 10+ years in IT development includ
 
 [Profile pictures](/pictures)
 
+![speaker](pictures/upkar-profile.jpg)
